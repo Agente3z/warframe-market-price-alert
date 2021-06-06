@@ -56,7 +56,7 @@ while 1==1:
 
                 
         except:
-            print('orcaccia la madonna')
+            pass
     
     time.sleep(10)
     driver.refresh()
