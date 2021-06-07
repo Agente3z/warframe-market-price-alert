@@ -44,7 +44,7 @@ while 1==1:
             
             if prezzo<=prezzovoluto: 
                 stringaepic=str(link[30:])
-                print(stringaepic+' price went below',str(prezzovoluto)+'!')
+                print(stringaepic+' price went below ',str(prezzovoluto)+'!')
                 
                 for _ in range(2):
                     winsound.Beep(1000, 600)
