@@ -1,4 +1,4 @@
-# warframe.market alert on wanted price on wanted item
+# warframe.market utility that alerts you when a specified item gets listed below a certain price
 
 
 YOU NEED FIREFOX, and also download gecko driver from this repo
